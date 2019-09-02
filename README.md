@@ -1,5 +1,5 @@
 # SoftwareEngeneering2019.2
-# Repositório completo do HeyFoodApp
+# HeyFoodApp source code repository
 - 
-# Repositório completo com as documentações
-- https://github.com/andrecarlos26/HeyFoodApp-Documentation-fundamentals-of-software-engeneering-2019.2/tree/master
+# Complete repository with the documentation
+- https://github.com/andrecarlos26/HeyFoodApp-Documentation-fundamentals-of-software-engeneering-2019.2
